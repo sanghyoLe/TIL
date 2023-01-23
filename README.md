@@ -4,14 +4,14 @@
 하루하루 공부하기
 
 
-_4 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [팩토리 패턴](design-pattern/factory.md) - Sun Jan 22 16:15:37 2023 +0900
-- [옵저버 패턴(observer pattern)](design-pattern/observer.md) - Sun Jan 22 16:15:37 2023 +0900
+- [이터레이터, 노출모듈 패턴](design-pattern/iterator-revealing-module.md) - Sun Jan 22 21:06:38 2023 +0900
+- [MVC 패턴](design-pattern/mvc.md) - Sun Jan 22 21:06:38 2023 +0900
 
 ### Categories
 
@@ -19,7 +19,11 @@ _4 TILs and counting..._
 
 ### [design-pattern](#design-pattern)
 - [팩토리 패턴](design-pattern/factory.md)
+- [이터레이터, 노출모듈 패턴](design-pattern/iterator-revealing-module.md)
+- [MVC 패턴](design-pattern/mvc.md)
+- [MVP , MVVM 패턴](design-pattern/mvp-mvvm.md)
 - [옵저버 패턴(observer pattern)](design-pattern/observer.md)
+- [프록시 패턴(proxy pattern)](design-pattern/proxy.md)
 - [# 싱글톤 패턴과 의존성 주입](design-pattern/singleton-dependency-injection.md)
 - [전략 패턴(strategy pattern)](design-pattern/strategy-pattern.md)
 
