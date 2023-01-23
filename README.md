@@ -10,8 +10,8 @@ _13 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [배열의 평균값](coding-test/배열의 평균값.md) - Mon Jan 23 16:44:06 2023 +0900
-- [짝수는 싫어요](coding-test/짝수는 싫어요.md) - Mon Jan 23 16:44:06 2023 +0900
+- [배열의 평균값](coding-test/배열의평균값.md) - Mon Jan 23 16:45:31 2023 +0900
+- [짝수는 싫어요](coding-test/짝수는싫어요.md) - Mon Jan 23 16:45:31 2023 +0900
 
 ### Categories
 
@@ -20,8 +20,8 @@ _13 TILs and counting..._
 - [programming-paradigm](#programming-paradigm)
 
 ### [coding-test](#coding-test)
-- [배열의 평균값](coding-test/배열의 평균값.md)
-- [짝수는 싫어요](coding-test/짝수는 싫어요.md)
+- [배열의 평균값](coding-test/배열의평균값.md)
+- [짝수는 싫어요](coding-test/짝수는싫어요.md)
 - [# 최빈값 구하기](coding-test/최빈값구하기.md)
 - [피자나눠먹기 1, 2, 3](coding-test/피자나눠먹기.md)
 
