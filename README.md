@@ -4,19 +4,20 @@
 하루하루 공부하기
 
 
-_13 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [배열의 평균값](coding-test/배열의평균값.md) - Mon Jan 23 16:45:31 2023 +0900
-- [짝수는 싫어요](coding-test/짝수는싫어요.md) - Mon Jan 23 16:45:31 2023 +0900
+- [TCP/IP 4계층 모델 - 애플리케이션, 전송](network/TCP_IP_애플리케이션_전송계층.md) - Mon Jan 23 23:49:50 2023 +0900
+- [네트워크 분류 및 성능 분석 명령어](network/네트워크분류_성능분석명령어.md) - Mon Jan 23 23:49:50 2023 +0900
 
 ### Categories
 
 - [coding-test](#coding-test)
 - [design-pattern](#design-pattern)
+- [network](#network)
 - [programming-paradigm](#programming-paradigm)
 
 ### [coding-test](#coding-test)
@@ -34,6 +35,11 @@ _13 TILs and counting..._
 - [프록시 패턴(proxy pattern)](design-pattern/proxy.md)
 - [# 싱글톤 패턴과 의존성 주입](design-pattern/singleton-dependency-injection.md)
 - [전략 패턴(strategy pattern)](design-pattern/strategy-pattern.md)
+
+### [network](#network)
+- [TCP/IP 4계층 모델 - 애플리케이션, 전송](network/TCP_IP_애플리케이션_전송계층.md)
+- [네트워크 기본과 토폴로지와 병목현상](network/network-basic-topolgy-bottleneck.md)
+- [네트워크 분류 및 성능 분석 명령어](network/네트워크분류_성능분석명령어.md)
 
 ### [programming-paradigm](#programming-paradigm)
 - [프로그래밍 패러다임(programming paramdigm)](programming-paradigm/programming-paradigm.md)
