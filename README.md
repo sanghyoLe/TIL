@@ -28,7 +28,7 @@ _15 TILs and counting..._
 - [MVP , MVVM 패턴](design-pattern/mvp-mvvm.md)
 - [옵저버 패턴(observer pattern)](design-pattern/observer.md)
 - [프록시 패턴(proxy pattern)](design-pattern/proxy.md)
-- [# 싱글톤 패턴과 의존성 주입](design-pattern/singleton-dependency-injection.md)
+- [싱글톤 패턴과 의존성 주입](design-pattern/singleton-dependency-injection.md)
 - [전략 패턴(strategy pattern)](design-pattern/strategy-pattern.md)
 
 ### [frontend](#frontend)
