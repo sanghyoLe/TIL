@@ -4,20 +4,21 @@
 하루하루 공부하기
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [TCP/IP 4계층 모델 - 애플리케이션, 전송](network/TCP_IP_애플리케이션_전송계층.md) - Mon Jan 23 23:49:50 2023 +0900
-- [네트워크 기본과 토폴로지와 병목현상](network/network-basic-topolgy-bottleneck.md) - Mon Jan 23 23:49:50 2023 +0900
+- [JSON, XML, API, 클라우드, Saas, Paas, Iaas, Docker, 컨테이너 배포](take-a-class/2023-01-26.md) - Thu Jan 26 01:11:12 2023 +0900
+- [네트워크 분류 및 성능 분석 명령어](network/네트워크분류_성능분석명령어.md) - Mon Jan 23 23:49:50 2023 +0900
 
 ### Categories
 
 - [design-pattern](#design-pattern)
 - [network](#network)
 - [programming-paradigm](#programming-paradigm)
+- [take-a-class](#take-a-class)
 
 ### [design-pattern](#design-pattern)
 - [팩토리 패턴](design-pattern/factory.md)
@@ -36,6 +37,9 @@ _12 TILs and counting..._
 
 ### [programming-paradigm](#programming-paradigm)
 - [프로그래밍 패러다임(programming paramdigm)](programming-paradigm/programming-paradigm.md)
+
+### [take-a-class](#take-a-class)
+- [JSON, XML, API, 클라우드, Saas, Paas, Iaas, Docker, 컨테이너 배포](take-a-class/2023-01-26.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
